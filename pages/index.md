@@ -101,7 +101,6 @@ It removes intermediaries, makes compute liquid, and transforms intelligence int
 
 ### Web3 - The OPENX Token & Governance
 
-- [OPENX Token](/web3/openxai-token)
 - [Token Utility](/web3/token-utility)
 - [Staking System](/web3/staking-system)
 - [Treasury](/web3/treasury)
