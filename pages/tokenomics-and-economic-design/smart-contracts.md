@@ -19,11 +19,13 @@
 
 ## [OpenxAI (ERC20)](https://github.com/OpenxAI-Network/openxai-token/blob/main/src/OpenxAI.sol)
 
-The project token.
+The project token.   
+[Audit](https://github.com/OpenxAI-Network/openxai-token/blob/main/audit%2FCyberscope.pdf)
 
 ## [OpenxAI Claimer](https://github.com/OpenxAI-Network/openxai-token/blob/main/src/OpenxAIClaimer.sol)
 
-Contract that distributes OpenxAI tokens based on off-chain conditions.
+Contract that distributes OpenxAI tokens based on off-chain conditions.   
+[Audit](https://github.com/OpenxAI-Network/openxai-token/blob/main/audit%2FCyberscope.pdf)
 
 ## [Tokenized Server V1 (ERC721)](https://github.com/OpenxAI-Network/tokenized-server/blob/main/src/OpenxAITokenizedServerV1.sol)
 
@@ -43,4 +45,5 @@ Tokens set aside for opportunities that aren't known or present at time of launc
 
 ## [OpenxAI Vesting](https://github.com/OpenxAI-Network/openxai-token/blob/main/src/OpenxAINonCirculatingSupplyVesting.sol)
 
-Contract that will release OpenxAI tokens according to the vesting schedule. These tokens are released into the OpenxAI Token Vault.
+Contract that will release OpenxAI tokens according to the vesting schedule. These tokens are released into the OpenxAI Token Vault.   
+[Audit](https://github.com/Plopmenz/vesting/blob/main/audits%2FCyberscope.pdf)
