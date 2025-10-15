@@ -1,4 +1,4 @@
-## 7.1 Principles of Governance
+## Principles of Governance
 
 OpenxAI is governed as a **neutral public protocol**.  
 

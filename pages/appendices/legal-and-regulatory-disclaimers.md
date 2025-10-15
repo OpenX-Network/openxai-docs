@@ -1,4 +1,4 @@
-## 8.3 Legal and Regulatory Disclaimers
+## Legal and Regulatory Disclaimers
 
 OpenxAI is a **decentralized protocol**.  
 

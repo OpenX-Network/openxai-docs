@@ -1,4 +1,4 @@
-## 6.4 Revenue Streams
+## Revenue Streams
 
 The protocol collects fees across multiple layers:
 

@@ -1,4 +1,4 @@
-## 7.5 Hack Nodes
+## Hack Nodes
 
 Hack Nodes are a cornerstone of the **OpenxAI community strategy**.  
 They act as **decentralized accelerators** that run in universities, research hubs, and local ecosystems.

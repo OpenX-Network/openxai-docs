@@ -1,4 +1,4 @@
-## 6.2 Native Token Utility
+## Native Token Utility
 
 The **$OPENX** token performs multiple functions within the protocol:
 

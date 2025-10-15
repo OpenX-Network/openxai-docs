@@ -1,4 +1,4 @@
-## 7.3 Treasury and Allocation
+## Treasury and Allocation
 
 The **DAO treasury** accumulates protocol revenue from multiple sources, including **compute usage, marketplace activity, and specialized services**.  
 

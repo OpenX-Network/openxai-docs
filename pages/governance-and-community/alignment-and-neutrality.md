@@ -1,4 +1,4 @@
-## 7.6 Alignment and Neutrality
+## Alignment and Neutrality
 
 Governance in OpenxAI is designed to remain **neutral** across jurisdictions and private interests.  
 

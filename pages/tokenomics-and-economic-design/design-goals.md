@@ -1,4 +1,4 @@
-## 6.1 Design Goals
+## Design Goals
 
 The **$OPENX** token is the economic engine of the **OpenxAI Network**.  
 Its design follows three principles:

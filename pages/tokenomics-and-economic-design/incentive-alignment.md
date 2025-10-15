@@ -1,4 +1,4 @@
-## 6.6 Incentive Alignment
+## Incentive Alignment
 
 - **Node operators** earn $OPENX and tokenized credits by providing reliable capacity  
 - **Developers** earn from licensing, subscriptions, and royalties when their models are used  

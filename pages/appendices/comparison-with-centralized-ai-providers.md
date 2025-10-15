@@ -1,4 +1,4 @@
-## 8.2 Comparison with Centralized AI Providers
+## Comparison with Centralized AI Providers
 
 Traditional providers such as **AWS, Google Cloud, and Azure** control access through accounts, credit cards, and jurisdictional restrictions.  
 They impose **premium pricing** and maintain data in **centralized facilities**.  

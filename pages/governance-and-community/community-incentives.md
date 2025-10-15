@@ -1,4 +1,4 @@
-## 7.4 Community Incentives
+## Community Incentives
 
 The protocol thrives on participation from many different groups.  
 Incentive programs ensure that each group is **rewarded for its contributions**.

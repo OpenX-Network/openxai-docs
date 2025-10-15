@@ -1,4 +1,4 @@
-## 6.8 Economic Flywheel
+## Economic Flywheel
 
 - More **users** lead to more demand for compute  
 - More demand leads to **higher burn of $OPENX** through credits  
