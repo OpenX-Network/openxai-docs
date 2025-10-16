@@ -1,4 +1,4 @@
-## 8.1 Glossary of Terms
+## Glossary of Terms
 
 - **AMAI (AI Model Accessibility Index):** Measures how accessible models are across regions and user groups  
 - **ACRR (AI Cost Reduction Ratio):** Tracks percentage savings of OpenxAI compute versus centralized clouds  

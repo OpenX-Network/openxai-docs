@@ -1,4 +1,4 @@
-## 6.7 Value Flow Model
+## Value Flow Model
 
 - **Users** acquire $OPENX to purchase compute credits or access marketplace assets  
 - **Credits** are minted and redeemed, consuming $OPENX and **burning supply**  

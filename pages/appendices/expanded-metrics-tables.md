@@ -1,4 +1,4 @@
-## 8.4 Expanded Metrics Tables
+## Expanded Metrics Tables
 
 | Metric                  | Definition                                | Current Benchmark           | Target 2026            |
 |-------------------------|-------------------------------------------|----------------------------|-----------------------|

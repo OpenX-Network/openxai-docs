@@ -1,4 +1,4 @@
-## 6.3 Tokenized Compute Credits
+## Tokenized Compute Credits
 
 OpenxAI introduces **tokenized compute assets** such as **tGPU** and **tCPU**.
 

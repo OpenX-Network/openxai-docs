@@ -1,4 +1,4 @@
-## 7.2 DAO Structure
+## DAO Structure
 
 The **OpenxAI DAO** is the central governing body. It holds the treasury, approves network upgrades, and manages incentive programs.  
 All governance actions are executed by **smart contracts** with no off-chain gatekeepers.  
