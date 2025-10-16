@@ -2,16 +2,6 @@
 
 OpenxAI offers various reward mechanisms to incentivize community participation, early backers, and milestone achievements. These rewards are distributed in OPENX tokens and are designed to foster ecosystem growth and community engagement.
 
-## Community Task Rewards
-
-Earn OPENX tokens by completing various community tasks. For example:
-
-- Follow @OpenxAI on X (500 OPENX)
-- Join @OpenxAI Telegram community (500 OPENX)
-- Create YouTube Shorts video (500 OPENX)
-- Create TikTok video (500 OPENX)
-- Attend in-person OpenxAI Meetup (2000 OPENX)
-
 *More community tasks and rewards will be added regularly.*
 
 ## Early Backer Rewards (2%)

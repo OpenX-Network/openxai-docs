@@ -1,6 +1,5 @@
 // auto-generated _meta.ts for web3-features
 export default {
-  "openxai-token": "OPENX Token",
   "token-utility": "Token Utility",
   "staking-system": "Staking System",
   "rewards": "Rewards",

@@ -34,3 +34,71 @@ This allows AI apps to run with Stripe-style business models but fully on-chain 
 Proof mechanisms, staking, and neutrality rules ensure that the protocol cannot be co-opted by jurisdictions or corporations.  
 Nodes provide verifiable guarantees of compute integrity.  
 Governance is commitment-based and ensures that the system remains resistant to censorship and capture.
+
+---
+
+### Energy Savings and Carbon Emissions Reduction
+Cutting energy use by 40% and reducing carbon emissions by 35% through decentralized efficiency.
+
+OpenxAI's distributed infrastructure optimizes compute allocation across a global network, minimizing idle server time and avoiding wasted energy. By using underutilized GPUs and routing workloads to the most efficient, closest nodes, it cuts energy usage by up to 40% compared to centralized AI providers-delivering lower costs, better performance, and a reduced carbon footprint.
+
+![Energy Savings with OpenxAI](/images/openxai-energy-savings.jpg)
+
+---
+
+### Comprehensive AI Cost Optimization
+Cuts hosting, training, and data transfer costs including ingress and egress for greater efficiency.
+
+![AI Cost Optimization](/images/openxai-ai-costoptimization.jpg)
+
+---
+
+### DeepSeek R1 for 12 months
+Comparing 12-month hosting, training, and operating costs for DeepSeek R1 across leading AI providers.
+
+![Deepseek R1](/images/openxai-deepseek-r1.jpg)
+
+---
+
+### New Breakthrough in AI Privacy
+Full ownership and control over models & data by combining decentralized compute with end-to-end encryption.
+
+The AI Data Sovereignty Score (ADSS) measures how much control users have over their AI models, datasets, and access permissions, factoring in encryption, infrastructure independence, and ownership rights.
+
+OpenxAI combines decentralized compute, end- to-end encryption, and on-chain ownership to remove corporate custody. This ensures creators have full sovereignty over their AI assets, resulting in a top ADSS rating.
+
+![AI Privacy](/images/openxai-ai-privacy.jpg)
+
+---
+
+
+### Cutting AI Costs by Up to 80%
+Cuts AI training, hosting, inference, and storage costs by over 80% using decentralized infrastructure.
+
+The AI Data Sovereignty Score (ADSS) measures the degree of ownership and control users maintain over their AI models, datasets, and permissions, factoring in encryption, infrastructure independence, and on-chain governance. 
+
+OpenxAI's decentralized compute, end-to-end encryption, and smart contract ownership remove corporate custody entirely, ensuring full sovereignty and a top ADSS rating.
+
+![Cutting AI Cost](/images/openxai-cutting-ai-cost.jpg)
+
+---
+
+### Make AI Available for Everyone
+No registration, no KYC, no accounts, no region locks, so anyone can build and use AI anywhere.
+
+The Permissionless Access Index (PAI) evaluates how easily users can access AI services without barriers such as KYC, account registration, or usage restrictions.
+
+OpenxAI uses decentralized infrastructure, smart contracts and wallet-based access to remove KYC, region locks, and approvals. This creates truly borderless AI deployment, reflected in a high Permissionless Access Index (PAI) score.
+
+![AI for everyone](/images/openxai-ai-foreveryone.jpg)
+
+---
+
+### Censorship Resistance & Geopolitical Independence
+Uses cryptography and decentralized networks to bypass regional blocks, and corporate shutdowns.
+
+The Censorship Resistance Rate (CRR) measures a platform's ability to maintain AI availability during censorship events, regional restrictions, or geopolitical conflicts.
+
+OpenxAI's globally distributed infrastructure and multi-region deployment bypass national firewalls and corporate takedowns, sanction resilience ensuring uninterrupted access. This architecture secures a top CRR score, proving AI can remain free, borderless, and immune to political control.
+
+![Censorship Resistance](/images/openxai-censorship-resistance.jpg)
