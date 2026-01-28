@@ -21,19 +21,33 @@ import {
   ChevronDown,
   ChevronRight,
   Menu,
-  X
+  X,
+  Settings,
+  User
 } from "lucide-react"
+
+// Simple cn helper for standalone use
+function cn(...classes: (string | boolean | undefined)[]) {
+  return classes.filter(Boolean).join(' ')
+}
 
 const MENU_GROUPS = [
   {
-    label: "MARKETPLACE",
+    label: "LEARN",
     items: [
-      { name: "Discover", href: "https://openxai-studio-demo.vercel.app/marketplace/discover", icon: <Search size={16} />, external: true },
+      { name: "Documentation", href: "/docs", icon: <FileText size={16} /> },
+      { name: "Courses", href: "/courses", icon: <GraduationCap size={16} /> },
+      { name: "Build & Grow", href: "/build-grow", icon: <Wand2 size={16} /> },
+      { name: "Contributors", href: "/contributors", icon: <UserCircle size={16} /> },
+      { name: "Forums", href: "/forums", icon: <Terminal size={16} /> },
+      { name: "Activity", href: "/activity", icon: <Globe size={16} /> },
+      { name: "Roadmap", href: "/roadmap", icon: <FileText size={16} /> },
     ],
   },
   {
     label: "BUILD",
     items: [
+      { name: "Discover", href: "/discover", icon: <Search size={16} /> },
       { name: "AI Models", href: "/models", icon: <Cpu size={16} /> },
       { name: "tGPUs", href: "/tgpu", icon: <Box size={16} /> },
       { name: "Agents", href: "/agents", icon: <Terminal size={16} /> },
@@ -46,26 +60,13 @@ const MENU_GROUPS = [
     ],
   },
   {
-    label: "LEARN",
-    items: [
-      { name: "Documentation", href: "/docs", icon: <FileText size={16} /> },
-      { name: "Courses", href: "/community/courses", icon: <GraduationCap size={16} /> },
-      { name: "Build & Grow", href: "/build-grow", icon: <Wand2 size={16} /> },
-      { name: "Contributors", href: "/contributors", icon: <UserCircle size={16} /> },
-      { name: "Forums", href: "/forums", icon: <Terminal size={16} /> },
-      { name: "Activity", href: "/activity", icon: <Globe size={16} /> },
-      { name: "Profile", href: "http://localhost:3002/community/profile", icon: <UserCircle size={16} />, external: true },
-    ],
-  },
-  {
-    label: "DASHBOARD",
+    label: "EARN",
     items: [
       { name: "Dashboard", href: "/dashboard", icon: <Layout size={16} /> },
       { name: "Ecosystem", href: "/ecosystem", icon: <Globe size={16} /> },
       { name: "Token", href: "/token", icon: <Coins size={16} /> },
       { name: "Claims", href: "/claims", icon: <Ticket size={16} /> },
       { name: "Earn", href: "/earn", icon: <DollarSign size={16} /> },
-      { name: "Roadmap", href: "/roadmap", icon: <FileText size={16} /> },
     ],
   },
 ]
@@ -73,6 +74,7 @@ const MENU_GROUPS = [
 export function V10SidebarStandalone() {
   const [isOpen, setIsOpen] = React.useState(false)
   const [collapsedGroups, setCollapsedGroups] = React.useState<string[]>([])
+  const [isConnected, setIsConnected] = React.useState(false) // Mock
 
   const toggleGroup = (label: string) => {
     setCollapsedGroups(prev => 
@@ -107,15 +109,14 @@ export function V10SidebarStandalone() {
           width: '32px',
           height: '32px',
           borderRadius: '8px',
-          backgroundColor: '#2563eb',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          fontWeight: 900,
-          color: 'white',
-          fontStyle: 'italic',
-          boxShadow: '0 4px 10px rgba(37,99,235,0.2)'
-        }}>V</div>
+          boxShadow: '0 4px 10px rgba(37,99,235,0.2)',
+          overflow: 'hidden'
+        }}>
+          <img src="/icon.png" alt="V10 Logo" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+        </div>
         <div style={{ fontSize: '20px', fontWeight: 'bold', letterSpacing: '-0.05em', color: 'white' }}>
           V10 <span style={{ color: '#60a5fa' }}>PORTAL</span>
         </div>
@@ -131,23 +132,81 @@ export function V10SidebarStandalone() {
         padding: '16px',
         border: '1px solid rgba(255,255,255,0.05)'
       }}>
+        {/* Profile Avatar & Settings Widget */}
+        <div style={{
+          marginBottom: '16px',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          borderBottom: '1px solid rgba(255,255,255,0.05)',
+          paddingBottom: '16px',
+          opacity: isConnected ? 1 : 0.4,
+          filter: isConnected ? 'none' : 'grayscale(100%)',
+          pointerEvents: isConnected ? 'auto' : 'none'
+        }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+            <div style={{
+              width: '40px',
+              height: '40px',
+              borderRadius: '50%',
+              background: 'linear-gradient(to bottom right, #2563eb, #4338ca)',
+              border: '2px solid rgba(255,255,255,0.1)',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              boxShadow: '0 4px 12px rgba(0,0,0,0.3)',
+              overflow: 'hidden'
+            }}>
+              {isConnected ? (
+                <img 
+                  src="https://api.dicebear.com/7.x/avataaars/svg?seed=v10-studio" 
+                  alt="Profile" 
+                  style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                />
+              ) : (
+                <User size={20} color="rgba(255,255,255,0.4)" />
+              )}
+            </div>
+            <div style={{ display: 'flex', flexDirection: 'column' }}>
+              <span style={{ fontSize: '11px', fontWeight: 'bold', color: 'white', letterSpacing: '-0.02em' }}>
+                {isConnected ? "0x12...abcd" : "Unauthorized"}
+              </span>
+              <span style={{ fontSize: '9px', fontWeight: 500, color: '#60a5fa', textTransform: 'uppercase', letterSpacing: '0.1em' }}>
+                {isConnected ? "Pilot" : "Guest Access"}
+              </span>
+            </div>
+          </div>
+          <button style={{
+            padding: '6px',
+            borderRadius: '6px',
+            backgroundColor: 'transparent',
+            border: 'none',
+            color: 'rgba(255,255,255,0.4)',
+            cursor: 'pointer'
+          }}>
+            <Settings size={16} />
+          </button>
+        </div>
+
         <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between' }}>
           <span style={{ fontSize: '40px', fontWeight: 300, color: 'white', lineHeight: 1 }}>0</span>
           <span style={{ fontSize: '12px', fontWeight: 'bold', color: 'rgba(255,255,255,0.5)', letterSpacing: '0.1em' }}>OPENX</span>
         </div>
-        <button style={{
-          marginTop: '16px',
-          width: '100%',
-          borderRadius: '12px',
-          backgroundColor: '#2563eb',
-          padding: '10px 0',
-          fontSize: '14px',
-          fontWeight: 'bold',
-          color: 'white',
-          border: 'none',
-          cursor: 'pointer'
-        }}>
-          Connect Wallet
+        <button 
+          onClick={() => setIsConnected(!isConnected)}
+          style={{
+            marginTop: '16px',
+            width: '100%',
+            borderRadius: '12px',
+            backgroundColor: '#2563eb',
+            padding: '10px 0',
+            fontSize: '14px',
+            fontWeight: 'bold',
+            color: 'white',
+            border: 'none',
+            cursor: 'pointer'
+          }}>
+          {isConnected ? "Connected" : "Connect Wallet"}
         </button>
       </div>
 
@@ -193,7 +252,6 @@ export function V10SidebarStandalone() {
                       <a
                         key={item.name}
                         href={item.href}
-                        target={item.external ? "_blank" : undefined}
                         onClick={() => setIsOpen(false)}
                         style={{
                           display: 'flex',
@@ -295,7 +353,7 @@ export function V10SidebarStandalone() {
         zIndex: 90,
         transition: 'transform 0.3s',
         transform: isOpen ? 'translateX(0)' : undefined
-      }} className={!isOpen ? "mobile-hidden-sidebar" : ""}>
+      }} className={cn(!isOpen && "mobile-hidden-sidebar")}>
         <SidebarContent />
       </div>
 
