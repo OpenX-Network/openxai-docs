@@ -21,42 +21,16 @@ const config: DocsThemeConfig = {
     toggleButton: true,
   },
   navbar: {
-    extraContent: (
-      <>
-        <a
-          href="https://x.com/OpenxAINetwork"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            display: "inline-block",
-            marginRight: "16px",
-            verticalAlign: "middle",
-          }}
-        >
-          <FaXTwitter size={24} />
-        </a>
-        <a
-          href="https://t.me/OpenxAINetwork"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            display: "inline-block",
-            marginRight: "16px",
-            verticalAlign: "middle",
-          }}
-        >
-          <FaTelegramPlane size={24} />
-        </a>
-      </>
-    ),
+    component: () => null,
   },
   footer: {
     content: "OpenxAI Docs",
   },
   darkMode: true,
   nextThemes: {
-    defaultTheme: "light",
+    defaultTheme: "dark",
     storageKey: "theme",
+    forcedTheme: "dark",
   },
   navigation: false,
 };
