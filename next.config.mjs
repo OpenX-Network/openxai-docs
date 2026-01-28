@@ -7,6 +7,7 @@ const withNextra = nextra({
 })
 
 export default withNextra({
+  basePath: '/docs',
   assetPrefix: '/docs',
   reactStrictMode: true
 })
