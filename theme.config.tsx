@@ -5,14 +5,14 @@ import { FaTelegramPlane } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
 const config: DocsThemeConfig = {
-  logo: <span>Openx Network Docs</span>,
+  logo: <span>OpenX Network Docs</span>,
   docsRepositoryBase:
     "https://github.com/OpenxAI-Network/openxai-docs/tree/main",
   head: (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta property="og:title" content="Openx Network Docs" />
-      <meta property="og:description" content="Openx Network Documentation" />
+      <meta property="og:title" content="OpenX Network Docs" />
+      <meta property="og:description" content="OpenX Network Documentation" />
       <link rel="icon" href="/favicon.ico" sizes="any" />
     </>
   ),
@@ -51,7 +51,7 @@ const config: DocsThemeConfig = {
     ),
   },
   footer: {
-    content: "Openx Network Docs",
+    content: "OpenX Network Docs",
   },
   darkMode: true,
   nextThemes: {

@@ -4,7 +4,7 @@
 
 ## Proposal Dashboard
 
-The Openx Network proposal dashboard shows key metrics:
+The OpenX Network proposal dashboard shows key metrics:
 - Total proposals created
 - Active proposals
 - Quorum progress

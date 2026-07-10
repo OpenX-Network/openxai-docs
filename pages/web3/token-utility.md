@@ -1,9 +1,9 @@
 # Token Utility
 
-The OPENX token provides comprehensive utility across the Openx Network ecosystem, enabling access to AI resources, governance participation, and economic incentives.
+The OPENX token provides comprehensive utility across the OpenX Network ecosystem, enabling access to AI resources, governance participation, and economic incentives.
 
 ## AI Model Access & Usage
-- Pay for AI compute, inference, and API calls using Openx Network tokens
+- Pay for AI compute, inference, and API calls using OpenX Network tokens
 - Unlock premium AI models and specialized datasets
 - Deploy AI models on the decentralized network with staking-based priority access
 
@@ -30,7 +30,7 @@ The OPENX token provides comprehensive utility across the Openx Network ecosyste
 ## Crowdfunded AI R&D & Innovation
 - Fund AI research & hackathons with milestone-based smart contracts
 - Users can back AI development and receive a share of future earnings
-- AI challenges (e.g., XPRIZE-style competitions) are funded using Openx Network tokens
+- AI challenges (e.g., XPRIZE-style competitions) are funded using OpenX Network tokens
 
 ## AI Marketplace & P2P Economy
 - Buy, sell, or rent AI models and datasets in a decentralized AI marketplace

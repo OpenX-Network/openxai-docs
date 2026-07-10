@@ -1,6 +1,6 @@
 # Contribution Guide
 
-There are multiple ways to contribute to the Openx Network ecosystem. Whether you're a developer, content creator, or community member, your contributions help build a more robust and inclusive AI platform.
+There are multiple ways to contribute to the OpenX Network ecosystem. Whether you're a developer, content creator, or community member, your contributions help build a more robust and inclusive AI platform.
 
 ## Community Tasks & Rewards
 
@@ -28,7 +28,7 @@ There are multiple ways to contribute to the Openx Network ecosystem. Whether yo
     <td>500 OPENX</td>
   </tr>
   <tr>
-    <td>Attend In-Person Openx Network Meetup</td>
+    <td>Attend In-Person OpenX Network Meetup</td>
     <td>2000 OPENX</td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ There are multiple ways to contribute to the Openx Network ecosystem. Whether yo
 ## AI Model Development
 
 ### Training Custom Models
-1. Set up Openx Network Studio environment
+1. Set up OpenX Network Studio environment
 2. Access our bare metal infrastructure
 3. Deploy and train your models
 4. Share results with the community

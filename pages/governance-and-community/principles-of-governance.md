@@ -1,6 +1,6 @@
 ## Principles of Governance
 
-Openx Network is governed as a **neutral public protocol**.  
+OpenX Network is governed as a **neutral public protocol**.  
 
 - The system rejects **corporate ownership** and **venture capital control**  
 - Power flows directly from **committed participants** who contribute resources, models, or capital  

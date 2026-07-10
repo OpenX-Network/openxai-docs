@@ -1,6 +1,6 @@
 # Community
 
-Join our vibrant community of AI enthusiasts, developers, and researchers. Connect with us across various platforms to stay updated, participate in discussions, and contribute to the Openx Network ecosystem.
+Join our vibrant community of AI enthusiasts, developers, and researchers. Connect with us across various platforms to stay updated, participate in discussions, and contribute to the OpenX Network ecosystem.
 
 ## Social Media & Community Channels
 
@@ -30,7 +30,7 @@ Join our vibrant community of AI enthusiasts, developers, and researchers. Conne
 ### Participate in Governance
 - Vote on proposals
 - Join community discussions
-- Shape the future of Openx Network
+- Shape the future of OpenX Network
 
 ### Contribute to Development
 - Submit pull requests

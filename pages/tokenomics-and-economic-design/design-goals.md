@@ -1,6 +1,6 @@
 ## Design Goals
 
-The **$OPENX** token is the economic engine of the **Openx Network**.  
+The **$OPENX** token is the economic engine of the **OpenX Network**.  
 Its design follows three principles:
 
 1. Every token must represent real utility in **compute, models, or governance**  

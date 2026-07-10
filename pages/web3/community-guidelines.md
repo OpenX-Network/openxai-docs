@@ -1,11 +1,11 @@
 # Web3 Community Guidelines
 
-Openx Network is committed to democratizing artificial intelligence through community-driven development and governance. We believe that the future of AI should be shaped by its users, developers, and enthusiasts working together.
+OpenX Network is committed to democratizing artificial intelligence through community-driven development and governance. We believe that the future of AI should be shaped by its users, developers, and enthusiasts working together.
 
 ## Community Participation
 
 ### Governance & Decision Making
-- Participate in Openx Network DAO voting to shape platform development
+- Participate in OpenX Network DAO voting to shape platform development
 - Submit improvement proposals for platform enhancement
 - Join community discussions on protocol upgrades and features
 - Help guide ethical AI development policies
@@ -25,7 +25,7 @@ Openx Network is committed to democratizing artificial intelligence through comm
 ## Core Values
 
 ### Decentralization
-We believe in distributing power across the community rather than centralizing it in any single entity. Through Openx Network DAO, every voice has the opportunity to be heard.
+We believe in distributing power across the community rather than centralizing it in any single entity. Through OpenX Network DAO, every voice has the opportunity to be heard.
 
 ### Transparency
 All governance decisions, milestone achievements, and treasury allocations are publicly visible and verifiable on-chain.

@@ -1,4 +1,4 @@
-# Openx Network Docs
+# OpenX Network Docs
 
 Based off the open source doc library for NextJS called [Nextra](https://nextra.site).
 

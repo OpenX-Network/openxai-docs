@@ -1,6 +1,6 @@
 ## Hack Nodes
 
-Hack Nodes are a cornerstone of the **Openx Network community strategy**.  
+Hack Nodes are a cornerstone of the **OpenX Network community strategy**.  
 They act as **decentralized accelerators** that run in universities, research hubs, and local ecosystems.
 
 - **Purpose:** Hack Nodes onboard new developers, host hackathons, and act as **incubation hubs** for permissionless AI projects  
@@ -8,4 +8,4 @@ They act as **decentralized accelerators** that run in universities, research hu
 - **Funding:** The DAO allocates budget to each Hack Node to cover **infrastructure, prizes, and operational costs**. Milestone reporting ensures accountability and **results-driven funding**  
 - **Outcomes:** Hack Nodes have produced hundreds of projects across regions including **Australia, India, and Latin America**. They serve as feeders into the **global marketplace** and **DAO governance process**
 
-Hack Nodes create a **constant pipeline of talent and applications**, proving that Openx Network is not only a protocol but also a **global movement** for open and permissionless intelligence.
+Hack Nodes create a **constant pipeline of talent and applications**, proving that OpenX Network is not only a protocol but also a **global movement** for open and permissionless intelligence.

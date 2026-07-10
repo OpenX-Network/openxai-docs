@@ -1,13 +1,13 @@
 # GPU Marketplace
 
-Openx Network offers a **global, decentralized GPU marketplace** that allows developers to **search, compare, and deploy GPU resources efficiently**. Follow these steps to leverage GPU resources in Openx Network Studio.
+OpenX Network offers a **global, decentralized GPU marketplace** that allows developers to **search, compare, and deploy GPU resources efficiently**. Follow these steps to leverage GPU resources in OpenX Network Studio.
 
 
 ![Sky Scanner For GPU](/images/openxai-skyscanner-gpu.jpg)
 
 ### Access GPU Marketplace
 
-1. Go to [Openx Network Studio](https://studio.openxai.org/) and log in using your **Web3 wallet** (e.g., MetaMask).  
+1. Go to [OpenX Network Studio](https://studio.openxai.org/) and log in using your **Web3 wallet** (e.g., MetaMask).  
 2. Navigate to  
 
    **App Store → Select Model → Select Version or Host → Explore GPUs → Available Machines**  
@@ -49,7 +49,7 @@ The left sidebar lets you refine your search:
 
 1. After selecting a GPU, go to the **Deployments** section on the dashboard.  
 2. Click **Deploy Model** and choose the AI model.  
-3. Openx Network Studio handles automatically:
+3. OpenX Network Studio handles automatically:
 
    - **Dependency Installation**: Installs required libraries and drivers.  
    - **Containerization**: Creates isolated Docker containers.  
@@ -67,7 +67,7 @@ The left sidebar lets you refine your search:
 
 ### Monetization & Tokenization
 
-Openx Network allows developers to monetize and tokenize their AI models seamlessly, without intermediaries.
+OpenX Network allows developers to monetize and tokenize their AI models seamlessly, without intermediaries.
 
 ### Access Monetization Settings
 
@@ -99,14 +99,14 @@ Choose one of the following options:
 3. Add optional referral logic and staking tiers.  
 4. Click **Deploy**.
 
-Your model will be indexed and available on Openx Network Studio.  
+Your model will be indexed and available on OpenX Network Studio.  
 Users can interact and pay using OPENX tokens.  
 All usage is tracked on-chain for transparency.
 
 
-### Seamless Deployment via Openx Network Studio
+### Seamless Deployment via OpenX Network Studio
 
-Deploy your AI models effortlessly using Openx Network Studio. This intuitive interface integrates with our sky-scanner to provision the ideal bare metal server with just a few clicks, providing unmatched performance and scalability.
+Deploy your AI models effortlessly using OpenX Network Studio. This intuitive interface integrates with our sky-scanner to provision the ideal bare metal server with just a few clicks, providing unmatched performance and scalability.
 
 ### Web3 Wallet Access & NixOS Security
 
@@ -116,7 +116,7 @@ Deploy your AI models effortlessly using Openx Network Studio. This intuitive in
 - **NixOS Security:**
   Our XnodeOS is built on a fork of NixOS, employing declarative, immutable configurations that minimize vulnerabilities and safeguard against unauthorized changes. This robust security foundation ensures a reproducible, hardening environment that protects your deployments on bare metal servers.
 
-Experience enhanced performance, secure authentication, and rigorous system security all in one—elevate your AI solution deployments with Openx Network's advanced bare metal infrastructure.
+Experience enhanced performance, secure authentication, and rigorous system security all in one—elevate your AI solution deployments with OpenX Network's advanced bare metal infrastructure.
 
 
 

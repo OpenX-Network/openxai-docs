@@ -1,6 +1,6 @@
 # Staking System
 
-The Openx Network staking system is designed to enhance network security and reward long-term token holders. With a 4% allocation from the total token supply dedicated to staking incentives, participants play a crucial role in securing the network.
+The OpenX Network staking system is designed to enhance network security and reward long-term token holders. With a 4% allocation from the total token supply dedicated to staking incentives, participants play a crucial role in securing the network.
 
 ## Key Features
 

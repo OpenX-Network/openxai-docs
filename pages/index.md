@@ -2,19 +2,19 @@
 icon: hand-wave
 ---
 
-# Openx Network Documentation
+# OpenX Network Documentation
 
-Welcome to the official documentation site for Openx Network — your resource for cutting-edge artificial intelligence technology and best practices. Openx Network is designed to be compact and focused, providing an efficient guide for developers, researchers, and enthusiasts working in AI.
+Welcome to the official documentation site for OpenX Network — your resource for cutting-edge artificial intelligence technology and best practices. OpenX Network is designed to be compact and focused, providing an efficient guide for developers, researchers, and enthusiasts working in AI.
 
 Our documentation covers everything from how to get started and detailed core features to advanced integration tools and community resources. Explore the sections below to learn more:
 
-### What is Openx Network
+### What is OpenX Network
 
-Openx Network is the first peer-to-peer permissionless AI protocol. What Bitcoin did for money, Openx Network does for intelligence. Anyone, anywhere can launch, own, and monetize AI apps, agents, and services fully on-chain. No banks. No corporations. No gatekeepers. Intelligence becomes open, sovereign, unstoppable. GPU compute becomes liquid with tokenized credits (tGPU).
+OpenX Network is the first peer-to-peer permissionless AI protocol. What Bitcoin did for money, OpenX Network does for intelligence. Anyone, anywhere can launch, own, and monetize AI apps, agents, and services fully on-chain. No banks. No corporations. No gatekeepers. Intelligence becomes open, sovereign, unstoppable. GPU compute becomes liquid with tokenized credits (tGPU).
 
-Built by core contributors from Fantom, Solana, ICP, Binance, NEAR, and AragonDAO, Openx Network runs fully on decentralized infrastructure. It cuts GPU costs by up to 80% compared to AWS and Google, while enabling global AI deployment. Think AWS + Hugging Face + Stripe, rebuilt as a trustless Web3 protocol, open to everyone.
+Built by core contributors from Fantom, Solana, ICP, Binance, NEAR, and AragonDAO, OpenX Network runs fully on decentralized infrastructure. It cuts GPU costs by up to 80% compared to AWS and Google, while enabling global AI deployment. Think AWS + Hugging Face + Stripe, rebuilt as a trustless Web3 protocol, open to everyone.
 
-![Permisionless & Borderless Openx Network](/images/openxai-permissionless-and-borderless.jpg)
+![Permisionless & Borderless OpenX Network](/images/openxai-permissionless-and-borderless.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ To give anyone the ability to build, deploy, and own AI without centralized infr
 
 ### The Solution
 
-Openx Network is the first **trustless AI protocol**.  
+OpenX Network is the first **trustless AI protocol**.  
 It removes intermediaries, makes compute liquid, and transforms intelligence into an open, permissionless, unstoppable public good.
 
 ---
@@ -114,6 +114,6 @@ It removes intermediaries, makes compute liquid, and transforms intelligence int
 - [Community](/resources/community)
 - [Contribution Guide](/resources/contribution-guide)
 - [Feature Requests](/resources/feature-requests)
-- [Openx Network Roadmap](https://changelog.openxai.org/planned)
+- [OpenX Network Roadmap](https://changelog.openxai.org/planned)
 
 Explore the pages to learn more about the tools and strategies that drive our open AI-first ecosystem!
