@@ -1,10 +1,10 @@
 ![Advanced Architecture](/images/openxai-advanced-architecture.jpg)
 
 ## Access and Developer Layer
-X Studio, SDKs, CLI, and OpenxAI Search.  
+X Studio, SDKs, CLI, and Openx Network Search.  
 This is the entry point for creators and operators.  
 It handles wallet connect, project setup, model import, dataset linking, deployment presets, monitoring, and team permissions.  
-**OpenxAI Search** lets users find and compare servers across the global fleet.
+**Openx Network Search** lets users find and compare servers across the global fleet.
 
 
 ##  Resource and Provider Layer  

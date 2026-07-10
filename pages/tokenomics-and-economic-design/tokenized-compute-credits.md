@@ -1,6 +1,6 @@
 ## Tokenized Compute Credits
 
-OpenxAI introduces **tokenized compute assets** such as **tGPU** and **tCPU**.
+Openx Network introduces **tokenized compute assets** such as **tGPU** and **tCPU**.
 
 - Credits are **minted** against verified node capacity and cryptographic proofs  
 - Credits are **fungible and tradable** across secondary markets  

@@ -1,6 +1,6 @@
 # Governance & Voting
 
-The OpenxAI governance system empowers token holders to participate in platform decision-making through OpenxAIDAO. With 6% allocation for governance and DAO treasury, the system ensures democratic control over platform development.
+The Openx Network governance system empowers token holders to participate in platform decision-making through Openx Network DAO. With 6% allocation for governance and DAO treasury, the system ensures democratic control over platform development.
 
 ## Key Components
 

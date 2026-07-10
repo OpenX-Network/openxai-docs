@@ -1,7 +1,7 @@
 
 ![Build your own ai](/images/openxai-build-ownai.jpg)
 
-OpenxAI empowers you to *build your OwnAI* without restrictions.  
+Openx Network empowers you to *build your OwnAI* without restrictions.  
 Our tokenomics and economic design ensure:
 
 •⁠  ⁠*No limits* – expand and innovate freely.  

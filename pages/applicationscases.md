@@ -1,5 +1,5 @@
 
-# OpenxAI Key Components
+# Openx Network Key Components
 
 ## 1. Global AI Model Hub
 A **decentralized library of models and datasets** where anyone can **publish, access, and remix**.  
@@ -15,7 +15,7 @@ A **decentralized library of models and datasets** where anyone can **publish, a
 - Creates a **global alternative to AWS and Google Cloud** that is cheaper, **censorship-resistant**, and entirely **peer-to-peer**  
 
 ## 3. Permissionless Training and Deployment
-OpenxAI enables **fine-tuning, inference, and live deployment** directly from a wallet.  
+Openx Network enables **fine-tuning, inference, and live deployment** directly from a wallet.  
 - Developers can **train custom agents, deploy APIs, and launch applications** in minutes  
 - From personal assistants to enterprise-scale workflows, the protocol enables AI services **without contracts, intermediaries, or servers**  
 

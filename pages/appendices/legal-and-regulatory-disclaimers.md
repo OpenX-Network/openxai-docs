@@ -1,6 +1,6 @@
 ## Legal and Regulatory Disclaimers
 
-OpenxAI is a **decentralized protocol**.  
+Openx Network is a **decentralized protocol**.  
 
 - It is **not a company** and does not provide services under a corporate entity  
 - Participation is entirely at the discretion of **users and node operators**  

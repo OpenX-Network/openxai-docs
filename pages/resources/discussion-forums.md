@@ -1,8 +1,8 @@
 # Discussion Forums
 
-Our community forum at [community.openxai.org](https://community.openxai.org) is the central hub for all OpenxAI discussions, governance proposals, and project coordination. The forum is structured to facilitate organized discussions and decision-making.
+Our community forum at [community.openxai.org](https://community.openxai.org) is the central hub for all Openx Network discussions, governance proposals, and project coordination. The forum is structured to facilitate organized discussions and decision-making.
 
-![OpenxAI Forum](/images/openxai-discourse-forums.jpg)
+![Openx Network Forum](/images/openxai-discourse-forums.jpg)
 
 ## Forum Categories
 
@@ -16,7 +16,7 @@ The governance section of our forum:
 ### 💬 General Chat
 Community discussions and general topics:
 - **Announcements**: Official updates and news
-- **General Discussion**: Open conversations about OpenxAI
+- **General Discussion**: Open conversations about Openx Network
 - **Technical Chat**: Development and implementation discussions
 - **Support**: Help and troubleshooting
 
@@ -54,4 +54,4 @@ Coordinate and track various initiatives:
 - Follow proposal templates when applicable
 - Engage with other community members
 
-Join our forum to help shape the future of OpenxAI through meaningful discussions and collaborative decision-making.
+Join our forum to help shape the future of Openx Network through meaningful discussions and collaborative decision-making.

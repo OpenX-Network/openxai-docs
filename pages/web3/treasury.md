@@ -1,6 +1,6 @@
 # Treasury
 
-The OpenxAI Treasury is a crucial component of our ecosystem, managing and allocating funds to support the platform's growth and development. The treasury is governed by the DAO and receives 6% of the total token allocation for governance proposals and network participation rewards.
+The Openx Network Treasury is a crucial component of our ecosystem, managing and allocating funds to support the platform's growth and development. The treasury is governed by the DAO and receives 6% of the total token allocation for governance proposals and network participation rewards.
 
 ## Treasury Allocation
 

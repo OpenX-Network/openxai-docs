@@ -1,6 +1,6 @@
 # Rewards
 
-OpenxAI offers various reward mechanisms to incentivize community participation, early backers, and milestone achievements. These rewards are distributed in OPENX tokens and are designed to foster ecosystem growth and community engagement.
+Openx Network offers various reward mechanisms to incentivize community participation, early backers, and milestone achievements. These rewards are distributed in OPENX tokens and are designed to foster ecosystem growth and community engagement.
 
 *More community tasks and rewards will be added regularly.*
 
