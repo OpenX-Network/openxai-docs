@@ -1,18 +1,15 @@
 ## DAO Structure
 
-The **OpenX Network DAO** is the central governing body. It holds the treasury, approves network upgrades, and manages incentive programs.  
-All governance actions are executed by **smart contracts** with no off-chain gatekeepers.  
+The **OpenX Network DAO** is currently in it's first stage where token holders can influence the future of the project. The DAO does not use direct on-chain execution, nor does it hold any on-chain assets or permissions. This is a safety feature, until the token has proven to be mature enough, gradually more and more will be granted to the DAO.
 
-The DAO is designed to be **lightweight yet powerful**, giving participants a direct stake in the protocol’s evolution.
+### Voting power
 
-### Proposal Stage
-Any participant can **draft and submit a proposal** to the DAO portal  
+Voting power on proposals scales is equal to the amount of OPENX tokens your address got delegated at proposal creation time (snapshot block). Any balance or delegation changes during the proposal will not be reflected.
 
-### Discussion Stage
-The community **reviews, debates, and suggests changes** in open forums  
+### Proposal pass requirement
 
-### Voting Stage
-**Token holders burn $OPENX** to cast votes, tying influence to commitment  
+For a proposal to pass, it has to have more YES votes than NO votes (>50%). Votes are measured in terms of voting power, not on a per account basis.
 
-### Execution Stage
-Approved proposals are **executed on-chain** by smart contracts or verified executors  
+### Governance framework
+
+The first DAO governance framework will be voted on 24h after all token holders have had a change to delegate their voting power. Any new governance framework should follow the current version to be voted in. The latest passed governance framework proposal will be added here.
