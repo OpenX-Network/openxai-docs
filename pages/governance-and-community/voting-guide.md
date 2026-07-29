@@ -15,8 +15,9 @@
 
 ### 4. Delegate your voting power
 
-> If you want to vote yourself, you have to delegate your voting power to yourself. By default your voting power is delegated to no one (0x0). You have to have your voting power delegated before the proposal is created to be able to vote on it.  
-> You'll only have to do this once, not for every vote.
+> If you want to vote yourself, you have to delegate your voting power to yourself. By default your voting power is delegated to no one (0x0). You have to have your voting power delegated before the proposal is created to be able to vote on it.
+
+> You'll only have to do this once, not for every vote. You can [change your delegation](https://app.aragon.org/dao/base-mainnet/0x9Cf8cDF78c4f726A7a180Ed949ced9D9A1075256/members) at any time, but it will only apply to future proposals.
 
 ![DAO delegate](/images/dao-delegate.png)  
 ![DAO delegate select](/images/dao-delegate-select.png)  
